@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "GitHub",
-			url: "https://github.com/dortania", // Internal links should not include the base path, as it is automatically added
+			url: "https://github.com/C130AIR", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
@@ -55,12 +55,12 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "/172959283.jpg",
 	name: "柯梓轩",
-	bio: "F4 Champion · Red Bull Junior · OCLP Core Dev",
+	bio: "F4 Champion · Red Bull Junior",
 	links: [
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/dortania",
+			url: "https://github.com/C130AIR",
 		},
 		{
 			name: "X",
@@ -75,7 +75,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Blog",
 			icon: "fa6-solid:globe",
-			url: "https://kzx.icu",
+			url: "https://C130AIR.github.io",
 		},
 	],
 };
