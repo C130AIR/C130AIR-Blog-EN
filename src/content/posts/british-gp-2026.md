@@ -1,5 +1,11 @@
 ---
-
+title: "英国大奖赛：乐扣夺冠，窝法真的没完"
+published: 2026-07-05
+description: "Charles Leclerc 在银石以完美发车奠定胜局，Antonelli 在家乡遭遇机械故障痛失好局，Verstappen 撞车退赛，法拉利 1-3 带回。"
+tags: ["F1", "赛车", "2026", "British GP", "Ferrari", "Leclerc"]
+category: "赛车"
+draft: false
+---
 
 # 英国大奖赛：乐扣夺冠，窝法真的没完
 

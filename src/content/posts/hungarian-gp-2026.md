@@ -1,5 +1,11 @@
 ---
-
+title: "匈牙利大奖赛：诺里斯PTW，马丁B版赛车效果显著"
+published: 2026-07-28
+description: "Lando Norris 在匈牙利拿下赛季首胜，Aston Martin B 版赛车首秀效果显著，Piastri 遭遇车祸+变速箱故障双重重击。"
+tags: ["F1", "赛车", "2026", "Hungarian GP", "McLaren", "Aston Martin"]
+category: "赛车"
+draft: false
+---
 
 # 匈牙利大奖赛：诺里斯PTW，马丁B版赛车效果显著
 
