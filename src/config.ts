@@ -10,7 +10,7 @@ import { LinkPreset } from "./types/config";
 export const siteConfig: SiteConfig = {
 	title: "KaziXuan",
 	subtitle: "F4 Champion · Red Bull Junior",
-	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
+	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 217, // Blue accent matching main site (#3B82F6)
 		fixed: true, // Hide the theme color picker for visitors
@@ -65,7 +65,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "X",
 			icon: "fa6-brands:x-twitter",
-			url: "https://x.com/leclerr8vg",
+			url: "https://x.com/ImJustC130AIR",
 		},
 		{
 			name: "Email",
