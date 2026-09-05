@@ -1,4 +1,10 @@
 ---
+title: "Hungarian Grand Prix: Norris Goes Pole-to-Win as Aston Martin's B-Spec Shines"
+published: 2026-07-28
+description: "Lando Norris took McLaren's first win of 2026 in Hungary, Aston Martin's B-spec impressed on debut, and Piastri suffered a double blow of contact and gearbox failure."
+tags: ["F1", "Racing", "2026", "Hungarian GP", "McLaren", "Aston Martin"]
+category: "Racing"
+draft: false
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3

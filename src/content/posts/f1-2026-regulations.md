@@ -1,4 +1,10 @@
 ---
+title: "F1 2026 Technical Regulations Fully Explained"
+published: 2026-07-28
+description: "A dimension-by-dimension breakdown of F1's 2026 rule reset: power unit, aerodynamics, chassis, tyres and sporting rules."
+tags: ["F1", "Racing", "Technical Regulations", "2026"]
+category: "Racing"
+draft: false
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3

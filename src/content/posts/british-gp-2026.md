@@ -1,4 +1,10 @@
 ---
+title: "British Grand Prix: Leclerc Wins as Ferrari Proves Far From Finished"
+published: 2026-07-05
+description: "Charles Leclerc took a near-perfect victory at Silverstone to give Ferrari their first win of 2026, while Antonelli's home race ended in heartbreak and Verstappen crashed out."
+tags: ["F1", "Racing", "2026", "British GP", "Ferrari", "Leclerc"]
+category: "Racing"
+draft: false
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3

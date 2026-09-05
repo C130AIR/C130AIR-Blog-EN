@@ -1,4 +1,11 @@
 ---
+title: "Coding Cat Online Backpack Tutorial: Cross-Device Backpacks with Cloud Variables"
+published: 2026-08-15
+description: "Build a cross-device online backpack in Coding Cat Kitten 4.0 using cloud variables: store backpack data as a 0/0/0 string, split into lists, then join back. With full block screenshots."
+image: "/kitten-backpack-init.png"
+tags: ["Coding Cat", "Kitten", "Tutorial", "Cloud Variables", "Online", "Backpack"]
+category: "Programming"
+draft: false
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
